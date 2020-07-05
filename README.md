@@ -1,2 +1,4 @@
 # content-management-system
-web application
+web application 
+
+Before Run the application:
